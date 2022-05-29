@@ -1,1 +1,1 @@
-# -AGH_DataScience_2022
+# AGH_DataScience_2022
